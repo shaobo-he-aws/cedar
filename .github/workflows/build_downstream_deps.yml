@@ -1,7 +1,7 @@
 name: Build Downstream Dependencies
 
 on:
-  push:
+  push
 
 env: 
   CARGO_TERM_COLOR: always
